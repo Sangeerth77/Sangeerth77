@@ -35,10 +35,12 @@
 
 ## 📌 Featured Projects
 
+* 🚗 **Uber-Lite**
+  <br>A high-performance mock ride-sharing backend designed to handle real-time location tracking and high-concurrency requests.
+  <br>Tech: Python, FastAPI, Redis, Kafka, MongoDB, Docker
+  <br>👉 [GitHub](https://github.com/Sangeerth77/uber-lite)
 
 ---
-
-
 
 ## 🤝 Let's Connect!
 
